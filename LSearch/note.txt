@@ -1,0 +1,9 @@
+search a number in a array using linear search
+if found return index of number (index start from 0)
+if not found return -1
+
+input : array (read from input.txt)
+        search numbers one by one (read from testInput.txt)
+output : generate output in out.txt
+         (look at idealOut.txt for testInput.txt)
+         
