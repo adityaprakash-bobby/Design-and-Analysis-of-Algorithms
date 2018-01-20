@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<data>
-	<compile>g++ main.cpp -o main</compile>
-	<run>./main input.txt testInput.txt out.txt</run>
-	<compare>Compare.exe idealOut.txt out.txt</compare>
-</data>
