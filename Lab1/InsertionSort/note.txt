@@ -1,0 +1,8 @@
+sort an unsorted array using insertion sort
+
+input : array (read from input.txt)
+
+output : sorted array
+         generate output in out.txt 
+         (look at idealOut.txt for input.txt)
+         
