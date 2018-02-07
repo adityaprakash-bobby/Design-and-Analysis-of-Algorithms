@@ -1,7 +1,7 @@
 # Design-and-Analysis-of-Algorithms
 This repository will be regularly updated of the programs related to the efficiency of different agorithms and also that of data structure.
 
-Lab1:(**Using command line arguements**)
+Lab1:(**Using command line arguments**)
   1. _Binary Search_
   2. _Linear Search_
   3. _Bubble Sort_
