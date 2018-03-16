@@ -29,4 +29,16 @@ Lab4: (**Recursive Programs**)
   4. _Fibonacci Series_
   5. _Priting linked list in reverse_
   6. _Sum of digits of a number_
+
+Lab5:
+  1. _Heap_
+  2. _Quick Sort_
+  3. _Randomized Quick Sort_
   
+Lab6:
+  1. _Longest common Subsequence_
+  2. _Matrix-Chain Multiplication_
+  
+Lab7:
+  1. _Activity Selection Program_
+  2. _Disjoint Sets Implementation_
